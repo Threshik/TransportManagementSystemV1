@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is part of the **Hexaware Case Study**. It is designed to manage transport operations including vehicle, driver, route, passenger, and trip details using **Java**, **OOP principles**, **JDBC**, and **exception handling**.
+This project is part of the **Hexaware Technologies Foundational Training Case Study**. It is designed to manage transport operations including vehicle, driver, route, passenger, and trip details using **Java**, **OOP principles**, **JDBC**, and **exception handling**.
 
 ## 💻 Tech Stack
 
