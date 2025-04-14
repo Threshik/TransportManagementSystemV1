@@ -11,7 +11,6 @@ This project is part of the **Hexaware Technologies Foundational Training Case S
 - **Architecture**: Layered (entity, dao, util, exception, main)  
 - **IDE**: IntelliJ
 
-![image](https://github.com/user-attachments/assets/428f14bc-1e5e-42ff-b746-1e30c9afa2be)
 
 
 
