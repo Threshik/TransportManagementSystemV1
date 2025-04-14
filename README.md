@@ -9,4 +9,7 @@ This project is part of the **Hexaware Technologies Foundational Training Case S
 - **Language**: Java  
 - **Database**: MySQL   
 - **Architecture**: Layered (entity, dao, util, exception, main)  
-- **IDE**: IntelliJ  
+- **IDE**: IntelliJ
+
+  ![image](https://github.com/user-attachments/assets/3c44a91a-7dc8-47de-8408-558753984d55)
+
